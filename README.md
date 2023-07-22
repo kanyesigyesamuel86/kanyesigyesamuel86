@@ -24,12 +24,12 @@ I have so far gained great insights and knowledge as described below.
         - Gained an understanding of the networking concepts, i.e, VLANS, Switching, Routing, IP addressing, OSI Model and TCP/IP model.
 
 
-#### FOurth Week: ####
+#### Fourth Week: ####
         - Routing simulations in GNS3 software,including static and dynamic
         - Simulating networks using Routing protocols. IS-IS, OSPRF
         - Studied Wlan Technologies
         - Use of developer tools to do code analysis
-        - Used nmap to scan for ports on an remote machine and identifying the servers and applications running.
+        - Using nmap to scan for ports on an remote machine and identifying the servers and applications running.
         - Intercepting and modifying traffic using burp suit.
         - Identifying vulnerabilities in a remote linux based machine using metasploit 
 
