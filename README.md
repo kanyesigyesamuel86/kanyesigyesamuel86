@@ -33,12 +33,11 @@ I have so far gained great insights and knowledge as described below.
 - Disassembly and Assembly of a laptop
 
 #### Fifth week: 24/07/2023 - 28/07/2023 ####
-    - Configuring a Uncomplicated Firewall(UFW) to allow or disallow traffic on Ubuntu Server 
-    - Installation and set up of nginx
-    - Installation and set up of Fail2ban on ubuntu to guard against automated login requests such as Brute Force.
-    - Installation and Configuration of Suricata to operate as an IPS
-    - Creating and running scripts on a remote machine using Ansible and SSH
-
+- Configuring a Uncomplicated Firewall(UFW) to allow or disallow traffic on Ubuntu Server 
+- Installation and set up of nginx
+- Installation and set up of Fail2ban on ubuntu to guard against automated login requests such as Brute Force.
+- Installation and Configuration of Suricata to operate as an IPS
+- Creating and running scripts on a remote machine using Ansible and SSH
 <!---
 kanyesigyesamuel86/kanyesigyesamuel86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
