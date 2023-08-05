@@ -38,6 +38,13 @@ I have so far gained great insights and knowledge as described below.
 - Installation and set up of Fail2ban on ubuntu to guard against automated login requests such as Brute Force.
 - Installation and Configuration of Suricata to operate as an IPS
 - Creating and running scripts on a remote machine using Ansible and SSH
+
+#### Sixth Week: 31/07/2023 - 04/08/2023 ####
+- Installation and use of Network and Systems monitoring tools (Nagios, Cacti and LibreNMS).
+- IT ticketing Sytem
+- Setting up Point-to-Point Microwave links
+- Scanning for Vulnerabilities using NSE(Nmap Scripting Engine), Crawler on a metasploit framework console
+
 <!---
 kanyesigyesamuel86/kanyesigyesamuel86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
