@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kanyesigyesamuel86
-- 👀 I’m interested in machine learning..
+- 👀 I’m interested in Python, Computer Networks, Linux, Cybersecurity and Machine learning..
 - 🌱 I’m currently learning the succession of computer technology
 
 I am currently attending idustrial training at RENU. 
@@ -45,6 +45,11 @@ I have so far gained great insights and knowledge as described below.
 - Setting up Point-to-Point Microwave links
 - Scanning for Vulnerabilities using NSE(Nmap Scripting Engine), Crawler on a metasploit framework console
 
+#### Seventh Week: 07/08/2023 - 11/08/2023 ####
+- Server Management incuding user management, connection types, Resources and Security.
+- Incident Response Walkthrough.
+- Vulnerability Scanning and Analysis using OWASP ZAP, Nikto and SQLMap.
+- DNS Server set up and configuration.
 <!---
 kanyesigyesamuel86/kanyesigyesamuel86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
