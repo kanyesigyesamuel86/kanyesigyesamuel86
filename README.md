@@ -50,6 +50,12 @@ I have so far gained great insights and knowledge as described below.
 - Incident Response Walkthrough.
 - Vulnerability Scanning and Analysis using OWASP ZAP, Nikto and SQLMap.
 - DNS Server set up and configuration.
+
+#### Eighth Week: 14/08/2023 - 18/08/2023 ####
+- Installation and Setup of nginx-naxsi.
+- Setup of Django with postgesql and Gunicorn.
+- Cybersecurity incident response.
+
 <!---
 kanyesigyesamuel86/kanyesigyesamuel86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
