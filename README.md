@@ -56,6 +56,14 @@ I have so far gained great insights and knowledge as described below.
 - Setup of Django with postgesql and Gunicorn.
 - Cybersecurity incident response.
 
+#### Ninth Week: 21/08/2023 -25/08/2023 ####
+- Deploying the Web application on the server and-
+- Generating an SSL certificate using Certbot enable HTTPs.
+- Vulnerability scanning with Nessus.
+- Bruteforcing Logins with Hydra.
+- Use of Burp suite modules of Proxy and Repeater to intercept and manipulate web traffic.
+- Use of Dirb and Gobuster to bruteforce directories.
+
 <!---
 kanyesigyesamuel86/kanyesigyesamuel86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
