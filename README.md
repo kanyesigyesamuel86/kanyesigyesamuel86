@@ -64,6 +64,9 @@ I have so far gained great insights and knowledge as described below.
 - Use of Burp suite modules of Proxy and Repeater to intercept and manipulate web traffic.
 - Use of Dirb and Gobuster to bruteforce directories.
 
+
+The ninth week marked my end of stay at Research and Education Network for Uganda(RENU) as an Industrial Trainee. It has been a rewarding a period to me. 
+👨‍💻 Grateful for the invaluable experiences, knowledge, and friendships I've gained during this time.
 <!---
 kanyesigyesamuel86/kanyesigyesamuel86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
